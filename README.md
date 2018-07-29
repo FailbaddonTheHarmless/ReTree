@@ -6,5 +6,5 @@ Consider it an early alpha version
 
 #ToDo:
 Better re generator.
-Pruning
+Pruning.
 Clearer code
